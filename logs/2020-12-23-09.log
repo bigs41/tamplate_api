@@ -1,0 +1,4 @@
+{"port":"8080","level":"info","message":"server start","timestamp":"2020-12-23T02:03:38.196Z"}
+{"message":"httpServer stop","level":"info","timestamp":"2020-12-23T02:05:06.375Z"}
+{"port":"8080","level":"info","message":"server start","timestamp":"2020-12-23T02:05:10.551Z"}
+{"message":"httpServer stop","level":"info","timestamp":"2020-12-23T02:16:44.056Z"}

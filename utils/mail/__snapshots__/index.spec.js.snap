@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`utils mail should send mail with template 1`] = `
+[MockFunction] {
+  "calls": Array [
+    Array [
+      Object {
+        "html": <html lang="en"
+      data-server-rendered="true"
+>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0"
+    >
+    <meta http-equiv="X-UA-Compatible"
+          content="ie=edge"
+    >
+    <title>
+      Document
+    </title>
+  </head>
+  <body>
+    <img src="https://[::1]/mail/banner.png"
+         width="450"
+         height="107"
+    >
+    <pre>
+      บัญชีผู้ใช้ : ชื่อ
+    OTP : 123456
+    </pre>
+  </body>
+</html>,
+        "subject": "รีเซ็ตรหัสผ่าน",
+        "to": "user@mail.com",
+      },
+    ],
+  ],
+  "results": Array [
+    Object {
+      "type": "return",
+      "value": undefined,
+    },
+  ],
+}
+`;

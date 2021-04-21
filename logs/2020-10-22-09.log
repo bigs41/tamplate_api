@@ -1,0 +1,20 @@
+{"message":"close database connection","level":"info","timestamp":"2020-10-22T02:03:14.689Z"}
+{"port":"80","level":"info","message":"server start","timestamp":"2020-10-22T02:03:58.341Z"}
+{"port":"80","level":"info","message":"server start","timestamp":"2020-10-22T02:04:34.503Z"}
+{"message":"httpServer stop","level":"info","timestamp":"2020-10-22T02:05:11.192Z"}
+{"port":"80","level":"info","message":"server start","timestamp":"2020-10-22T02:08:13.988Z"}
+{"port":"80","level":"info","message":"server start","timestamp":"2020-10-22T02:08:43.810Z"}
+{"message":"httpServer stop","level":"info","timestamp":"2020-10-22T02:08:47.245Z"}
+{"port":"80","level":"info","message":"server start","timestamp":"2020-10-22T02:11:42.920Z"}
+{"message":"httpServer stop","level":"info","timestamp":"2020-10-22T02:11:49.113Z"}
+{"port":"80","level":"info","message":"server start","timestamp":"2020-10-22T02:12:48.571Z"}
+{"message":"httpServer stop","level":"info","timestamp":"2020-10-22T02:13:01.417Z"}
+{"port":"80","level":"info","message":"server start","timestamp":"2020-10-22T02:13:31.994Z"}
+{"port":"80","level":"info","message":"server start","timestamp":"2020-10-22T02:16:32.943Z"}
+{"port":"80","level":"info","message":"server start","timestamp":"2020-10-22T02:17:00.112Z"}
+{"port":"80","level":"info","message":"server start","timestamp":"2020-10-22T02:17:20.088Z"}
+{"message":"httpServer stop","level":"info","timestamp":"2020-10-22T02:18:36.135Z"}
+{"port":"80","level":"info","message":"server start","timestamp":"2020-10-22T02:18:50.903Z"}
+{"port":"80","level":"info","message":"server start","timestamp":"2020-10-22T02:19:25.545Z"}
+{"port":"80","level":"info","message":"server start","timestamp":"2020-10-22T02:22:54.459Z"}
+{"message":"httpServer stop","level":"info","timestamp":"2020-10-22T02:56:01.138Z"}

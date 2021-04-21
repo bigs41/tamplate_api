@@ -1,0 +1,10 @@
+{"port":"8080","level":"info","message":"server start","timestamp":"2020-10-21T03:21:03.442Z"}
+{"message":"close database connection","level":"info","timestamp":"2020-10-21T03:28:13.166Z"}
+{"message":"close database connection","level":"info","timestamp":"2020-10-21T03:28:28.168Z"}
+{"message":"close database connection","level":"info","timestamp":"2020-10-21T03:28:47.056Z"}
+{"port":"8080","level":"info","message":"server start","timestamp":"2020-10-21T03:29:18.872Z"}
+{"message":"httpServer stop","level":"info","timestamp":"2020-10-21T03:29:27.091Z"}
+{"message":"close database connection","level":"info","timestamp":"2020-10-21T03:29:42.334Z"}
+{"message":"close database connection","level":"info","timestamp":"2020-10-21T03:32:37.607Z"}
+{"port":"8080","level":"info","message":"server start","timestamp":"2020-10-21T03:33:04.455Z"}
+{"port":"8080","level":"info","message":"server start","timestamp":"2020-10-21T03:57:17.838Z"}
