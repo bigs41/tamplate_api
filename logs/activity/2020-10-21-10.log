@@ -1,0 +1,1 @@
+{"data":{"requestId":"c1dd199f-323a-425f-87f8-bb3e7c5452a8","route":"/api/login","params":{"email":"wararat.s@ovec.moe.go.th","password":"********"},"stack":"ResponseError: user not find\n    at F:\\javascript\\moe_input_data\\api\\routes\\login.js:24:22"},"level":"error","message":"user not find","timestamp":"2020-10-21T03:49:02.238Z"}

@@ -1,0 +1,27 @@
+version: "3"
+
+services:
+  deep1:
+    image: moe-input-data
+    build: .
+    environment:
+      DB_HOST: "mariadb"
+      DB_USER: "root"
+      DB_PASS: "dHfu123!"
+    volumes:
+      - ./conf.js:/app/conf.js
+    ports:
+      - 80:80
+
+  mariadb:
+    image: mariadb
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: dHfu123!
+      MYSQL_ROOT_HOST: "%"
+      TZ: "Asia/Bangkok"
+      MYSQL_DATABASE: "deep1"
+    volumes:
+      - ./mysql/db:/var/lib/mysql
+    ports:
+      - 3306:3306

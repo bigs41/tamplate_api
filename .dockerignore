@@ -1,0 +1,11 @@
+docker-compose.yml
+node_modules
+*.dev.*
+!**/__*
+conf.*
+/logs
+/data
+.cache
+.history
+/redis
+/api/script
